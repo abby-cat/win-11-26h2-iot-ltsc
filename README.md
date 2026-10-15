@@ -55,5 +55,3 @@ dism /export-image /SourceImageFile:"C:\ISO_Work\sources\install.wim" /SourceInd
 # Export iso with oscdimg
 oscdimg -m -o -u2 -udfver102 -bootdata:2#p0,e,b"C:\ISO_Work\boot\etfsboot.com"#pEF,e,b"C:\ISO_Work\efi\microsoft\boot\efisys.bin" -l"Win11_26H2_IoT_LTSC" "C:\ISO_Work" "C:\Win11_26H2_IoT_LTSC.iso"   
 
-https://wormhole.app/dLpRb3#OoOdeFPJT2Nxhu_zLEPO_w
-https://wormhole.app/YAk2J9#sRO6AkpAquyz3uqps4aaWA 
