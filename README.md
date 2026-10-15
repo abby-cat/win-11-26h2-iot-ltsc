@@ -1,6 +1,6 @@
-# MAKE SURE THIS FILE AND ALL FOLDERS ARE ON THE C DRIVE ITSELF, NOT INSIDE A FOLDER
 # Install windows adk first 
 # Then download the following packages from microsoft and place them in the updates folder
+# You will also need folders call "MOUNT", "ISO_WORK" and "UPDATES" located on the C drive for correct staging during DISM mount and deployment
 https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/b986f1b3-b24f-4302-85d4-baa913ed3a26/public/windows11.0-kb5064081-x64_a1096145ded3adfc26f8f23442281533429f0e38.msu
 
 https://catalog.sf.dl.delivery.mp.microsoft.com/filestreamingservice/files/fa84cc49-18b2-4c26-b389-90c96e6ae0d2/public/windows11.0-kb5054156-x64_a0c1638cbcf4cf33dbe9a5bef69db374b4786974.msu
